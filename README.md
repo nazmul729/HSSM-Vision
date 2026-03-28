@@ -9,7 +9,6 @@ This package contains a research-ready PyTorch implementation of **HSSM-Vision**
 
 ## Files
 - `hssm_vision.py` — backbone, blocks, and detection scaffold
-%- `train_imagenet.py` — classification training script
 - `README.md` — usage notes
 
 ## Important note
@@ -17,7 +16,7 @@ This code is a **training-ready research scaffold**. It is aligned with the meth
 
 ## Quick start
 ```bash
-python train_imagenet.py /path/to/imagenet \
+python train_File.py /path/to/imagenet \
   --model small \
   --epochs 300 \
   --batch-size 128 \
