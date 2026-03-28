@@ -9,7 +9,7 @@ This package contains a research-ready PyTorch implementation of **HSSM-Vision**
 
 ## Files
 - `hssm_vision.py` — backbone, blocks, and detection scaffold
-- `train_imagenet.py` — classification training script
+%- `train_imagenet.py` — classification training script
 - `README.md` — usage notes
 
 ## Important note
